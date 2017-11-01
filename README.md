@@ -1,0 +1,2 @@
+# SOADbot
+dischord bot
